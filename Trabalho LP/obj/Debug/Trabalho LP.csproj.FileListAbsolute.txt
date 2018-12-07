@@ -1,0 +1,16 @@
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\bin\Debug\Trabalho LP.exe.config
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\bin\Debug\Trabalho LP.exe
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\bin\Debug\Trabalho LP.pdb
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\bin\Debug\MySql.Data.dll
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho LP.csprojAssemblyReference.cache
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho_LP.CadastrarDVD.resources
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho_LP.Form1.resources
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho_LP.Properties.Resources.resources
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho LP.csproj.GenerateResource.cache
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho LP.csproj.CoreCompileInputs.cache
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho LP.csproj.CopyComplete
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho LP.exe
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho LP.pdb
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho_LP.CadastrarCliente.resources
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho_LP.Alterar.resources
+C:\Users\aquil\Desktop\COISAS DAQUELE LUGAR INUTIL\LP\Trabalho LP\Trabalho LP\obj\Debug\Trabalho_LP.Venda.resources
